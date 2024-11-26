@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Homework 1 - AnimalBattle</string>
+    <string name="player_animal_text">Player\'s Animal</string>
+    <string name="computer_animal_text">Computer\'s Animal</string>
+    <string name="result_text">Result</string>
+    <string name="button_battle_text">Battle!</string>
+    <string name="app_name" />
 </resources>
