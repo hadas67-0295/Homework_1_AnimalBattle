@@ -7,8 +7,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.homework1_animalbattle.R;
-
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
